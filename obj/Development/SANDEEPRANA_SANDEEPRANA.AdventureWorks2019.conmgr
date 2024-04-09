@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SANDEEPRANA_SANDEEPRANA.AdventureWorks2019"
+  DTS:DTSID="{0991C1F0-E588-4632-8134-7D20350482D8}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=SANDEEPRANA\SANDEEPRANA;Initial Catalog=AdventureWorks2019;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Moving Excel file to SQL-{0991C1F0-E588-4632-8134-7D20350482D8}SANDEEPRANA\SANDEEPRANA.AdventureWorks2019;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

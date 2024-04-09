@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Records.xlsx"
+  DTS:DTSID="{A92FBA14-D3E9-4E78-97EF-669D3F144962}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="C:\Users\SANDE\Documents\SSIS Project\Moving Excel file to SQL\Records.xlsx" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
